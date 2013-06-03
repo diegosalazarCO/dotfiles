@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/kirafreaky/.audacity-data'
-let g:netrw_dirhist_2='/home/kirafreaky/.i3'
-let g:netrw_dirhist_3='/sys/class/net/eth0'
-let g:netrw_dirhist_4='/etc/network.d'
-let g:netrw_dirhist_5='/home/kirafreaky/.config/awesome/themes/colored'
-let g:netrw_dirhist_6='/home/kirafreaky/.xmonad'
-let g:netrw_dirhist_7='/home/kirafreaky/.config/awesome'
